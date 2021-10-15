@@ -48,7 +48,7 @@ body {
 }
 
 .block_1 {
-    width: 1020px;
+    max-width: 1020px;
     font-family: "Roboto", sans-serif;
     color: #4B4B4B;
     /*margin-bottom: 50px;*/
