@@ -59,7 +59,7 @@ body {
 
 .overline {
     padding-top: 100px;
-    width: 436px;
+    max-width: 436px;
     height: 17px;
     font-size: 12px;
     font-weight: 700;
@@ -89,7 +89,7 @@ body {
     font-size: 16px;
     letter-spacing: 0.15px;
     /*color: #4B4B4B;*/
-    width: 846px;
+    max-width: 846px;
     height: 76px;
     margin-bottom: 54px;
     /*padding-left: 87px;*/
@@ -97,7 +97,7 @@ body {
 }
 
 .content-picture {
-    width: 846px;
+    max-width: 846px;
     height: 420px;
     margin: 0 auto;
 }
@@ -105,7 +105,7 @@ body {
 .section_2 {
     background: url("../img/Gears.png") left top no-repeat #F5F5F5;
     height: 1067px;
-    width: 1440px;
+    max-width: 1440px;
     margin-top: -82px;
     padding-top: 54px;
     margin-bottom: 54px;
@@ -114,7 +114,7 @@ body {
 
 .square {
     background-color: white;
-    width: 324px;
+    max-width: 324px;
     height: 340px;
     /*font-weight: 400;*/
     /*font-size: 16px;*/
@@ -151,7 +151,7 @@ body {
 }
 
 .block_2 {
-    width: 1039px;
+    max-width: 1039px;
     height: 2741px;
     font-family: "Poppins", sans-serif;
     background-color: white;
@@ -195,7 +195,7 @@ body {
 
 .block_3 {
     font-family: "Poppins", sans-serif;
-    width: 465px;
+    max-width: 465px;
     height: 440px;
     margin-left: 87px;
     color: black;
