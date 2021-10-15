@@ -35,8 +35,6 @@ img {
 }
 
 body {
-    /*line-height: 1;*/
-    /*font-family: "Roboto", sans-serif;*/
     color: #4B4B4B;
 
 }
@@ -51,29 +49,22 @@ body {
     max-width: 1020px;
     font-family: "Roboto", sans-serif;
     color: #4B4B4B;
-    /*margin-bottom: 50px;*/
-    /*padding-left: 87px;*/
 }
 
 .section_1 {
     height: 820px;
     background: url("../img/Gears.png") right top no-repeat white;
     padding-left: 87px;
-    /*margin-left: 210px;*/
 }
 
 .overline {
     padding-top: 100px;
-    /*margin-top: 100px;*/
-    /*padding-left: 87px;*/
     width: 436px;
     height: 17px;
     font-size: 12px;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 2.5px;
-    /*color: #4B4B4B;*/
-    /*background: url("../img/mark.png")left bottom no-repeat;*/
     margin-bottom: 50px;
 }
 
@@ -89,9 +80,8 @@ body {
     font-weight: 900;
     color: #02133C;
     font-size: 36px;
-    width: 583px;
+    max-width: 583px;
     height: 134px;
-    /*padding-left: 87px;*/
 }
 
 .block_1_content {
